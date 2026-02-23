@@ -325,3 +325,8 @@ for (module in modNames) {
 # Save results table
 write.csv(moduleResults, "WGCNA_ModuleMembership_vs_GeneSignificance.csv", row.names = FALSE)
 print(moduleResults)
+
+
+
+
+moduleResults=read_csv("WGCNA_ModuleMembership_vs_GeneSignificance.csv")
