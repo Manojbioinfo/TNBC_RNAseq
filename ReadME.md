@@ -1,5 +1,3 @@
-Here's the streamlined version with only the sections you kept:
-
 # README
 
 ## Integrative Multi-Omic Analysis Identifies HORMAD1 as a Prognostic Biomarker and Druggable Target in Triple-Negative Breast Cancer: A Bioinformatics Study
