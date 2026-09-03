@@ -38,10 +38,6 @@ If you are interested in reusing, adapting, or building upon this code and analy
 
 ### Citation
 
-If you use this code or data in your research, please cite:
-
-> Malagasi G, Vindal V, Manavathi B, Gupta MK, Vadde R. Integrative Multi-Omic Analysis Identifies HORMAD1 as a Prognostic Biomarker and Druggable Target in Triple-Negative Breast Cancer: A Bioinformatics Study. *[Journal Name, Year]*.
-
 ---
 
 ### License and Usage Restrictions
